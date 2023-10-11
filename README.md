@@ -8,7 +8,7 @@ LocalStack supports a comprehensive list of APIs, which you can view on our [Fea
 
 ## Installation
 
-You can install LocalStack Desktop by downloading the latest executables for your platform from the [web application](https://app.localstack.cloud/download)
+You can install LocalStack Desktop by downloading the latest executables for your platform from the [web application](https://app.localstack.cloud/download) or from the [Microsoft Store](https://www.microsoft.com/store/apps/9NTRNFT9ZWS2)
 
 ## Features
 
