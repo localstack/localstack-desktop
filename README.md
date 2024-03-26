@@ -8,11 +8,11 @@ LocalStack supports a comprehensive list of APIs, which you can view on our [Fea
 
 ## Installation
 
-You can install LocalStack Desktop by downloading the latest executables for your platform from the [web application](https://app.localstack.cloud/download) or from the [Microsoft Store](https://www.microsoft.com/store/apps/9NTRNFT9ZWS2)
+You can install LocalStack Desktop by downloading the latest executables for your platform from the [web application](https://app.localstack.cloud/download) or from the [Microsoft Store](https://www.microsoft.com/store/productId/9NTRNFT9ZWS2)
 
 ## Features
 
-Currently our desktop application support the following features
+Currently, our desktop application supports the following features
 
 - **Control LocalStack**: Start, stop and create containers from the UI
   ![Containers](.github/images/containers.png)
