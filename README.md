@@ -20,5 +20,5 @@ Currently, our desktop application supports the following features
   ![Terminal](.github/images/terminal.png)
 - **LocalStack insights**: Check the log information of your LocalStack instance 
   ![Logs](.github/images/logs.png)
-- **Resource browser**: Use the LocalStack Resource Browser to view, manage, and deploy AWS resources similar to the AWS Management Console
-  ![Resource Browser](.github/images/resourceBrowser.png)
+- **LocalStack console**: Use features from the Web App to view and manage resources, perform chaos experiments and see policies for you aws requests 
+  ![Resource Browser](.github/images/resource-browser.png)
