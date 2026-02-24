@@ -1,6 +1,6 @@
 # LocalStack Desktop
 
-The LocalStack Desktop 💻 application provides an easy way to manage your [LocalStack](https://github.com/localstack/localstack) instance.
+The LocalStack Desktop 💻 application provides an easy way to manage your [LocalStack](https://www.localstack.cloud/) instance.
 Effortlessly start and stop LocalStack, view logs, interact with the container and use our resource browser directly in the UI.
 
 LocalStack empowers developers to use over 75+ AWS services locally while helping them simplify their testing and development workflow.
